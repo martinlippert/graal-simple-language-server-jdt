@@ -1,0 +1,32 @@
+{
+  "resources":[
+    {"pattern":"org/eclipse/core/internal/runtime/messages.properties"}, 
+    {"pattern":"org/eclipse/jdt/internal/compiler/batch/messages.properties"}, 
+    {"pattern":"org/eclipse/jdt/internal/compiler/parser/parser1.rsc"}, 
+    {"pattern":"org/eclipse/jdt/internal/compiler/parser/parser10.rsc"}, 
+    {"pattern":"org/eclipse/jdt/internal/compiler/parser/parser11.rsc"}, 
+    {"pattern":"org/eclipse/jdt/internal/compiler/parser/parser12.rsc"}, 
+    {"pattern":"org/eclipse/jdt/internal/compiler/parser/parser13.rsc"}, 
+    {"pattern":"org/eclipse/jdt/internal/compiler/parser/parser14.rsc"}, 
+    {"pattern":"org/eclipse/jdt/internal/compiler/parser/parser15.rsc"}, 
+    {"pattern":"org/eclipse/jdt/internal/compiler/parser/parser16.rsc"}, 
+    {"pattern":"org/eclipse/jdt/internal/compiler/parser/parser17.rsc"}, 
+    {"pattern":"org/eclipse/jdt/internal/compiler/parser/parser18.rsc"}, 
+    {"pattern":"org/eclipse/jdt/internal/compiler/parser/parser19.rsc"}, 
+    {"pattern":"org/eclipse/jdt/internal/compiler/parser/parser2.rsc"}, 
+    {"pattern":"org/eclipse/jdt/internal/compiler/parser/parser20.rsc"}, 
+    {"pattern":"org/eclipse/jdt/internal/compiler/parser/parser21.rsc"}, 
+    {"pattern":"org/eclipse/jdt/internal/compiler/parser/parser22.rsc"}, 
+    {"pattern":"org/eclipse/jdt/internal/compiler/parser/parser23.rsc"}, 
+    {"pattern":"org/eclipse/jdt/internal/compiler/parser/parser24.rsc"}, 
+    {"pattern":"org/eclipse/jdt/internal/compiler/parser/parser3.rsc"}, 
+    {"pattern":"org/eclipse/jdt/internal/compiler/parser/parser4.rsc"}, 
+    {"pattern":"org/eclipse/jdt/internal/compiler/parser/parser5.rsc"}, 
+    {"pattern":"org/eclipse/jdt/internal/compiler/parser/parser6.rsc"}, 
+    {"pattern":"org/eclipse/jdt/internal/compiler/parser/parser7.rsc"}, 
+    {"pattern":"org/eclipse/jdt/internal/compiler/parser/parser8.rsc"}, 
+    {"pattern":"org/eclipse/jdt/internal/compiler/parser/parser9.rsc"}, 
+    {"pattern":"org/eclipse/jdt/internal/compiler/parser/readableNames.props"}, 
+    {"pattern":"org/eclipse/jdt/internal/compiler/problem/messages.properties"}
+  ]
+}
