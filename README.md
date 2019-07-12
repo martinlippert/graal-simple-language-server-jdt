@@ -4,7 +4,7 @@ This is an experiment running a language server as native image which uses JDT t
 
 ## how to run
 
-First, run the maven build inside of `org.test.language-server-jd`
+First, run the maven build inside of `org.test.language-server-jdt`
 
 `mvn clean package`
 
